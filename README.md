@@ -1,4 +1,4 @@
-# Screen_Time
+This can be useful to monitor working staff that must be on an desktop App. Also can use as monitoring your gaming effective time, etc.
 ![Alt text](./ss.jpg)
 
 Pre requirement:
