@@ -25,3 +25,5 @@ ToDo:
 - can connect to database, for many usage like graphing etc.
 - can make it always open, can't be closed (for monitoring in working staff).
 - may usage and add functionality.
+- can trigger lockout if time if more than x.
+- can monitor multiple app.
