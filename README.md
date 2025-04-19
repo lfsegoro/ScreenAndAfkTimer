@@ -22,8 +22,10 @@ It will visualize 5 stats and also auto logging every 1 hours:
 - 5 mins AFK count with window always still focus.
 
 ToDo:
-- can connect to database, for many usage like graphing etc.
-- can make it always open, can't be closed (for monitoring in working staff).
+- can graph because has csv log.
+- can connect to database via backend, odbc etc.
+- can connect to backend, for many usage like more logic, trigger alert etc.
+- can make it always open, can't be closed (for monitoring in working staff, or parental).
 - may usage and add functionality.
 - can trigger lockout if time if more than x.
 - can monitor multiple app.
