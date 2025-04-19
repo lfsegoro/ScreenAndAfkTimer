@@ -1,4 +1,5 @@
 # Screen_Time
+![Alt text](./ss.jpg)
 
 Pre requirement:
 - WIndowss OS
