@@ -31,3 +31,4 @@ ToDo:
 - may usage and add functionality.
 - can trigger lockout if time if more than x.
 - can monitor multiple app.
+- can make it stealth (to monitoring worker, kids etc).
