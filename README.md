@@ -1,5 +1,7 @@
-#This can be useful to monitor working staff that must be on an desktop App. Also can use as monitoring your gaming effective time, etc.
 ![Alt text](./ss.jpg)
+
+-This can be useful to monitor working staff that must be on an desktop App. 
+-Also can use as monitoring your gaming effective time, etc.
 
 Pre requirement:
 - Windows 7,10 OS maybe 11 also can.
