@@ -2,25 +2,24 @@
 ![Alt text](./ss.jpg)
 
 Pre requirement:
-- WIndowss OS
+- Windows 7,10 OS maybe 11 also can.
 - Autohotkey v2/v1 installed. you can try which one worked best.
 
 Usage: copy the script, and right click on the file -> run script.
 
 
 Feature:
-- The timer only tickin if the window is active/has focus.
-- visual counter of specifig windows by title you can change from the source code.
+- The timer only tickin if the target window is active/has focus.
 - Save the log on csv file on same directory of the script.
 - New app restart will resume the count (2 variable) if current date = date of last line log.
-- auto save logging every hour (can change on source code).
+- auto save logging every hour (can change frequency on source code).
 
 It will visualize 5 stats and also auto logging every 1 hours:
-- Total time of windows active/focus.
-- Total time of windows active/focus, without afk more than 5 minutes.
+- Total time of target app window active/focus.
+- Total time of target app window active/focus, without afk more than 5 minutes.
 - Current session time (without loses focus).
 - Pause count (change window / loses focus count).
-- 5 mins AFK count.
+- 5 mins AFK count with window always still focus.
 
 ToDo:
 - can connect to database, for many usage like graphing etc.
